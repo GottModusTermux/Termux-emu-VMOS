@@ -14,5 +14,4 @@ Jetzt downloadet er den Playstore und noch ein paar weitere G-apps um halt orden
 
 Ladet jetzt "Termux" aus dem store und geht meinem tut nach um ein vollwärtiges "Linux-Terminal" zu emulieren
 
-git clone https://github.com/GottModusTermux
-cd G0D && bash sudogottmodus.sh
+git clone https://github.com/GottModusTermux && cd G0D && bash sudogottmodus.sh
