@@ -1,12 +1,12 @@
 # Termux-emu-VMOS
-Mit VMOS eine android "custom rom" emulieren !! Auch ohne wirklichen root, könnt ihr mit VMOS umd der Rom, root emulieren.. nach ein paar updates haben es die entwickler geschafft.. 
+Mit VMOS eine android "custom rom" emulieren !! Auch ohne wirklichen root, könnt ihr mit VMOS und der Rom, root emulieren.. nach ein paar updates haben es die entwickler geschafft.. 
 darauf warte ich schon seit dem ich von dem VMOS projekt das erste mal mitbekommen hab ;)
 
 hier der link zur chinesischen vorversion
 
 https://mega.nz/#!XMBxEQQa!ChZxaDP9_z1gWTSLCCZpCZgg4trJW5bBMrWlrYCHLzs
 
-klick dich einfacg durch.. es geht besser als man denkt..
+klick dich einfacgh durch.. es geht besser als man denkt..
 Englische apps sind auch weiterhin auf englisch ;)
 
 Sucht nun im Homescrenn, in einen von den ordnern, das playstore symbol
