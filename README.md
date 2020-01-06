@@ -6,6 +6,9 @@ hier der link zur chinesischen vorversion
 
 https://mega.nz/#!XMBxEQQa!ChZxaDP9_z1gWTSLCCZpCZgg4trJW5bBMrWlrYCHLzs
 
+Mirror:
+http://ge.tt/m/1L3UaX03/
+
 klick dich einfacgh durch.. es geht besser als man denkt..
 Englische apps sind auch weiterhin auf englisch ;)
 
