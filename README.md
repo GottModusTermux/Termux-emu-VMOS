@@ -1,6 +1,10 @@
 # Termux-emu-VMOS
-Mit VMOS eine android "custom rom" emulieren !! Auch ohne wirklichen root, könnt ihr mit VMOS und der Rom, root emulieren.. nach ein paar updates haben es die entwickler geschafft.. 
-darauf warte ich schon seit dem ich von dem VMOS projekt das erste mal mitbekommen hab ;)
+Auf allen Smartphones ROOT, egal ob eine Bootloader sperre (oem entsperrung) vorhanden ist oder nicht ?
+"Das klingt fast unglaublich !" Indirekt aber möglich, und durch die "VMOS China.apk" sogar machbar !
+
+Kurz erklärt: ihr installiert euch eine "gerootete" Android 5.1.1 Lolipop Rom.
+Startet mit dieser "Rom" apps, die Root-rechte erfordern. EINE VIRTUELLE MASCHINE !!
+Dank dieser methode kann ich nun weiter Tutorials zum Thema "Termux" erstellen..
 
 # On All phones ROOT enable, with Vmos you emulated a "ROOTED ROM" on VM.
 
@@ -14,14 +18,17 @@ http://ge.tt/m/1L3UaX03/
 Mirror2:
 http://www.filedropper.com/vmoschina
 
+# Youtube tutorial:
+https://youtu.be/qphZG2YZXTQ
+
 klick dich einfach durch.. es geht besser als man denkt..
 Englische apps sind auch weiterhin auf englisch ;)
 
-Sucht nun im Homescrenn, in einen von den ordnern, das "playstore symbol"
+Sucht nun im Homescreen, in einen von den ordnern, das "playstore symbol"
 Jetzt downloadet er den Playstore und noch ein paar weitere G-apps um halt ordentlich zu laufen
 
-# Youtube tutorial:
-https://youtu.be/qphZG2YZXTQ
+Meldet euch im Playstore an
+(kann sein das sich das "Log-in" fenster von google play, sich automatisch schließt, das liegt daran das VMOS die G-apps im hintergrund downloadet)
 
 Ladet jetzt "Termux" aus dem store und geht meinem tut nach um ein vollwärtiges "Linux-Terminal" zu emulieren
 
