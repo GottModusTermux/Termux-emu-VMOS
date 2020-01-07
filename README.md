@@ -20,6 +20,9 @@ http://www.filedropper.com/vmoschina
 
 # Youtube tutorial:
 https://youtu.be/qphZG2YZXTQ
+Dank dieser methode kann ich nun weiter Tutorials zum Thema "Termux" erstellen..
+Apropo.. hier ein Video wie ihr euch ganz einfach "Termux" mit root, installiert
+https://youtu.be/8tpswfsHwjM
 
 klick dich einfach durch.. es geht besser als man denkt..
 Englische apps sind auch weiterhin auf englisch ;)
