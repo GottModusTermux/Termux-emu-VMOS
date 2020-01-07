@@ -20,6 +20,9 @@ Englische apps sind auch weiterhin auf englisch ;)
 Sucht nun im Homescrenn, in einen von den ordnern, das "playstore symbol"
 Jetzt downloadet er den Playstore und noch ein paar weitere G-apps um halt ordentlich zu laufen
 
+# Youtube tutorial:
+https://youtu.be/qphZG2YZXTQ
+
 Ladet jetzt "Termux" aus dem store und geht meinem tut nach um ein vollwärtiges "Linux-Terminal" zu emulieren
 
 git clone https://github.com/GottModusTermux && cd G0D && bash sudogottmodus.sh
