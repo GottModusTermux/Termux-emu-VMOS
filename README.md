@@ -28,7 +28,7 @@ Sucht nun im Homescreen, in einen von den ordnern, das "playstore symbol"
 Jetzt downloadet er den Playstore und noch ein paar weitere G-apps um halt ordentlich zu laufen
 
 Meldet euch im Playstore an
-(kann sein das sich das "Log-in" fenster von google play, sich automatisch schließt, das liegt daran das VMOS die G-apps im hintergrund downloadet)
+(kann sein das sich das "Log-in" fenster von google play, sich automatisch schließt, das liegt daran das VMOS die G-apps im hintergrund downloadet.. probiert es 2,3mal und dann sollte es funktionieren))
 
 Ladet jetzt "Termux" aus dem store und geht meinem tut nach um ein vollwärtiges "Linux-Terminal" zu emulieren
 
